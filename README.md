@@ -27,16 +27,6 @@
 
 ---
 
-### 💻 Estudiante de **1º de Sistemas Microinformáticos y Redes**
-
-### 🚀 Siempre aprendiendo, siempre construyendo.
-
-<img src="https://komarev.com/ghpvc/?username=LittleDemon420&label=Visitas&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
 # 💫 Sobre mí
 
 ```txt
