@@ -1,117 +1,109 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy **LittleDemon420**
+# 👋 ¡Hola! Soy LittleDemon420
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Estudiante+de+SMR;Apasionado+por+la+inform%C3%A1tica;Desarrollando+scripts+y+apps;Aprendiendo+con+Inteligencia+Artificial" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=💻+Estudiante+de+SMR;🤖+Aprendiendo+con+IA;⚡+Desarrollando+scripts+y+apps;🚀+Siempre+aprendiendo+nuevas+tecnologías" />
 
-### 💻 Estudiante de **1º de Sistemas Microinformáticos y Redes**
-
-### 🚀 Siempre aprendiendo, siempre construyendo.
-
-<img src="https://komarev.com/ghpvc/?username=LittleDemon420&label=Visitas&color=0e75b6&style=for-the-badge"/>
+### 💻 Estudiante de Sistemas Microinformáticos y Redes
+### 🚀 Apasionado por la informática desde siempre
 
 </div>
 
 ---
 
-# 💫 Sobre mí
+# 👨‍💻 Sobre mí
 
-```txt
-💻 Estudiante de SMR
-🤖 IA como herramienta de aprendizaje
-⚡ Desarrollo de scripts y aplicaciones
-🌱 Aprendiendo algo nuevo cada día
-🚀 Siempre buscando nuevos retos
+```text
+🎓 Estudiante de 1º de SMR
+💻 Amante de la informática y la tecnología
+🤖 Uso la IA para potenciar mi aprendizaje
+⚡ Desarrollo scripts y pequeñas aplicaciones
+🌱 Siempre aprendiendo algo nuevo
 ```
 
-Me apasiona la informática desde siempre.
+Desde que descubrí el mundo de la informática no he dejado de aprender.
 
-Utilizo la **Inteligencia Artificial** para potenciar mi aprendizaje y acelerar el desarrollo de mis proyectos, pero siempre buscando comprender cómo funcionan las soluciones que implemento.
+Me gusta crear herramientas, automatizar tareas y experimentar con nuevas tecnologías. Utilizo la Inteligencia Artificial como apoyo para aprender más rápido, mejorar mi código y descubrir nuevas formas de resolver problemas.
 
-Actualmente sigo ampliando conocimientos en programación, sistemas, redes y automatización mientras construyo proyectos propios.
+---
+
+# 🚀 Actualmente
+
+- 📚 Estudiando Sistemas Microinformáticos y Redes.
+- 🖥️ Aprendiendo administración de sistemas.
+- 🐧 Mejorando mis conocimientos de Linux.
+- 🌐 Aprendiendo redes.
+- 🐍 Creando scripts en Python.
+- ⚡ Automatizando tareas.
+- 🤖 Experimentando con IA.
 
 ---
 
 # 🛠️ Tecnologías
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,windows,docker,git,github,vscode&theme=dark" />
+### Sistemas Operativos
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows"/>
+</p>
+
+### Programación
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,powershell"/>
+</p>
+
+### Herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
 </p>
 
 ---
 
-# 📊 Estadísticas de GitHub
+# 📚 Actualmente aprendiendo
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LittleDemon420&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleDemon420&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-# 🔥 Racha de contribuciones
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=LittleDemon420&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-# 🏆 Logros
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=LittleDemon420&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-# 🔥 Racha de contribuciones
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=LittleDemon420&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Logros
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LittleDemon420&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
+- 🐧 Linux
+- 🌐 Redes
+- 🔒 Ciberseguridad
+- 🐍 Python
+- ⚙️ Automatización
+- 🤖 Inteligencia Artificial
 
 ---
 
 # 🎯 Objetivos
 
-* 🚀 Crear proyectos útiles.
-* 🧠 Seguir aprendiendo nuevas tecnologías.
-* 🤝 Colaborar en proyectos Open Source.
-* ⚙️ Mejorar en automatización, programación y administración de sistemas.
+- 🚀 Crear proyectos cada vez más completos.
+- 📖 Aprender nuevas tecnologías.
+- 🤝 Colaborar en proyectos Open Source.
+- 💡 Compartir conocimiento con la comunidad.
+- 📈 Mejorar cada día como desarrollador y administrador de sistemas.
+
+---
+
+# 📌 Proyectos destacados
+
+Aquí encontrarás proyectos relacionados con:
+
+- ⚙️ Automatización
+- 🐍 Scripts en Python
+- 🖥️ Administración de sistemas
+- 🌐 Redes
+- 🤖 IA aplicada al desarrollo
+
+---
+
+# 💭 Filosofía
+
+> "La mejor forma de aprender informática no es leyendo, sino creando."
 
 ---
 
 <div align="center">
 
-### 💬 *"El mejor proyecto es el siguiente que aún no has empezado."*
+### ⭐ Gracias por visitar mi perfil ⭐
 
-⭐ Gracias por visitar mi perfil.
+*"Siempre hay algo nuevo que aprender."*
 
 </div>
