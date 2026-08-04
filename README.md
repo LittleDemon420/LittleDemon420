@@ -8,6 +8,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=LittleDemon420&label=Visitas&color=0e75b6&style=for-the-badge"/>
 
+</div>
+
 <p align="center">
   <sub>Aprendiendo y construyendo en informática y sistemas</sub>
 </p>
