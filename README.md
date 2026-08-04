@@ -43,11 +43,38 @@ Actualmente sigo ampliando conocimientos en programación, sistemas, redes y aut
 # 📊 Estadísticas de GitHub
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LittleDemon420&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleDemon420&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LittleDemon420&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleDemon420&layout=compact&theme=tokyonight&hide_border=true"/>
+# 🔥 Racha de contribuciones
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=LittleDemon420&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+# 🏆 Logros
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=LittleDemon420&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
