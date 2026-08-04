@@ -1,5 +1,13 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3a3a3f,100:1c1c1f&height=180&section=header&text=Nostraxiten&fontSize=60&fontColor=ffffff&desc=Security%20Researcher%20|%20Reverse%20Engineer&descAlignY=75&descSize=18&fontAlignY=40" alt="banner"/>
+</p>
+
+<p align="center">
+  <sub>Rompiendo sistemas para entender cómo funcionan</sub>
+</p>
+
 # 👋 ¡Hola! Soy **LittleDemon420**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Estudiante+de+SMR;Apasionado+por+la+inform%C3%A1tica;Desarrollando+scripts+y+apps;Aprendiendo+con+Inteligencia+Artificial" />
