@@ -10,9 +10,10 @@
   <sub>Aprendiendo y construyendo en informática y sistemas</sub>
 </p>
 
-# 👋 ¡Hola! Soy **LittleDemon420**
+---
 
-### 👋 ¡Hola! Soy **LittleDemon420**
+
+# 👋 ¡Hola! Soy **LittleDemon420**
 
 ### 💻 Estudiante de **1º de Sistemas Microinformáticos y Redes**
 
