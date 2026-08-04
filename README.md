@@ -85,16 +85,6 @@ Actualmente sigo ampliando conocimientos en programación, sistemas, redes y aut
 
 ---
 
-# 🏆 Logros
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LittleDemon420&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 🎯 Objetivos
 
 * 🚀 Crear proyectos útiles.
