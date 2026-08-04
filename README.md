@@ -6,6 +6,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Estudiante+de+SMR;Apasionado+por+la+inform%C3%A1tica;Desarrollando+scripts+y+apps;Aprendiendo+con+Inteligencia+Artificial" />
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=LittleDemon420&label=Visitas&color=0e75b6&style=for-the-badge"/>
+
 <p align="center">
   <sub>Aprendiendo y construyendo en informática y sistemas</sub>
 </p>
@@ -18,8 +20,6 @@
 ### 💻 Estudiante de **1º de Sistemas Microinformáticos y Redes**
 
 ### 🚀 Siempre aprendiendo, siempre construyendo.
-
-<img src="https://komarev.com/ghpvc/?username=LittleDemon420&label=Visitas&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
