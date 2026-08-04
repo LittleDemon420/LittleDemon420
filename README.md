@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3f,100:1c1c1f&height=180&section=header&text=LittleDemon420&fontSize=60&fontColor=ffffff&desc=Estudiante%20de%20SMR&descAlignY=75&descSize=18&fontAlignY=40&animation=fadeIn" alt="banner"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Estudiante+de+SMR;Apasionado+por+la+inform%C3%A1tica;Desarrollando+scripts+y+apps;Aprendiendo+con+Inteligencia+Artificial" />
 </p>
 
 <p align="center">
@@ -10,7 +12,17 @@
 
 # 👋 ¡Hola! Soy **LittleDemon420**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Estudiante+de+SMR;Apasionado+por+la+inform%C3%A1tica;Desarrollando+scripts+y+apps;Aprendiendo+con+Inteligencia+Artificial" />
+### 👋 ¡Hola! Soy **LittleDemon420**
+
+### 💻 Estudiante de **1º de Sistemas Microinformáticos y Redes**
+
+### 🚀 Siempre aprendiendo, siempre construyendo.
+
+<img src="https://komarev.com/ghpvc/?username=LittleDemon420&label=Visitas&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
 
 ### 💻 Estudiante de **1º de Sistemas Microinformáticos y Redes**
 
