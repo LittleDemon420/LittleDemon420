@@ -70,10 +70,6 @@ Actualmente sigo ampliando conocimientos en programación, sistemas, redes y aut
 # 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LittleDemon420&theme=dark&hide_border=true" alt="Racha de contribuciones"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleDemon420&theme=react-dark&hide_border=true" alt="Gráfica de actividad"/>
 </p>
 
