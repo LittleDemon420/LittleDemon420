@@ -1,11 +1,11 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3a3a3f,100:1c1c1f&height=180&section=header&text=Nostraxiten&fontSize=60&fontColor=ffffff&desc=Security%20Researcher%20|%20Reverse%20Engineer&descAlignY=75&descSize=18&fontAlignY=40" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3f,100:1c1c1f&height=180&section=header&text=LittleDemon420&fontSize=60&fontColor=ffffff&desc=Estudiante%20de%20SMR&descAlignY=75&descSize=18&fontAlignY=40&animation=fadeIn" alt="banner"/>
 </p>
 
 <p align="center">
-  <sub>Rompiendo sistemas para entender cómo funcionan</sub>
+  <sub>Aprendiendo y construyendo en informática y sistemas</sub>
 </p>
 
 # 👋 ¡Hola! Soy **LittleDemon420**
